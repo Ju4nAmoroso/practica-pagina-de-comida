@@ -72,3 +72,21 @@ button:hover{
   color: white;
 }
   */
+  article{
+    text-align: center;
+    background-color: aqua;
+  }
+  article div{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    margin-top: 10px;
+    align-items: center
+    gap: 10px;
+  }
+  .btn {
+    border: 1px solid greenyellow;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: greenyellow;
+  }
